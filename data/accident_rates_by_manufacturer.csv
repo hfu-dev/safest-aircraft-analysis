@@ -1,0 +1,19 @@
+Manufacturer,Event Type,Occurrence Rate (%)
+Airbus,Accident,45.19230769230769
+Airbus,Incident,54.807692307692314
+Boeing,Accident,53.01204819277109
+Boeing,Incident,46.98795180722892
+Bombardier,Accident,60.30534351145038
+Bombardier,Incident,39.69465648854962
+Eclipse Aerospace,Accident,66.66666666666666
+Eclipse Aerospace,Incident,33.33333333333333
+Embraer,Accident,70.93023255813954
+Embraer,Incident,29.069767441860467
+Gulfstream Aerospace,Accident,74.28571428571429
+Gulfstream Aerospace,Incident,25.71428571428571
+Israel Aircraft Industries,Accident,79.16666666666666
+Israel Aircraft Industries,Incident,20.833333333333336
+Dassault Aviation,Accident,80.0
+Dassault Aviation,Incident,20.0
+Textron Aviation,Accident,80.48780487804879
+Textron Aviation,Incident,19.51219512195122

@@ -1,0 +1,28 @@
+Manufacturer,Injury Level,Injury Rate (%)
+Embraer,Fatal,0.10641127959563715
+Embraer,Serious,0.9843043362596435
+Embraer,Minor,0.8778930566640064
+Bombardier,Fatal,1.294841859477818
+Bombardier,Serious,0.8490766291657822
+Bombardier,Minor,0.7217151347909149
+Boeing,Fatal,1.284051234705464
+Boeing,Serious,0.9465898358324578
+Boeing,Minor,1.3349888043466727
+Airbus,Fatal,2.3253861652115515
+Airbus,Serious,0.8394895903290799
+Airbus,Minor,0.46171927468099394
+Eclipse Aerospace,Fatal,0.0
+Eclipse Aerospace,Serious,12.0
+Eclipse Aerospace,Minor,0.0
+Textron Aviation,Fatal,11.746031746031745
+Textron Aviation,Serious,3.1746031746031744
+Textron Aviation,Minor,3.492063492063492
+Dassault Aviation,Fatal,8.695652173913043
+Dassault Aviation,Serious,3.260869565217391
+Dassault Aviation,Minor,7.608695652173914
+Israel Aircraft Industries,Fatal,23.200000000000003
+Israel Aircraft Industries,Serious,0.0
+Israel Aircraft Industries,Minor,1.6
+Gulfstream Aerospace,Fatal,13.304721030042918
+Gulfstream Aerospace,Serious,7.296137339055794
+Gulfstream Aerospace,Minor,4.291845493562231

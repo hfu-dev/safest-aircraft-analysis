@@ -1,0 +1,28 @@
+Manufacturer,Aircraft Damage Level,Aircraft Damage Rate (%)
+Eclipse Aerospace,Destroyed,0.0
+Eclipse Aerospace,Substantial,88.88888888888889
+Eclipse Aerospace,Minor,11.11111111111111
+Embraer,Destroyed,1.1627906976744187
+Embraer,Substantial,80.23255813953489
+Embraer,Minor,18.6046511627907
+Boeing,Destroyed,3.2530120481927707
+Boeing,Substantial,69.03614457831326
+Boeing,Minor,27.710843373493976
+Airbus,Destroyed,4.807692307692308
+Airbus,Substantial,73.07692307692307
+Airbus,Minor,22.115384615384613
+Bombardier,Destroyed,5.343511450381679
+Bombardier,Substantial,70.22900763358778
+Bombardier,Minor,24.427480916030532
+Gulfstream Aerospace,Destroyed,11.428571428571429
+Gulfstream Aerospace,Substantial,68.57142857142857
+Gulfstream Aerospace,Minor,20.0
+Textron Aviation,Destroyed,17.560975609756095
+Textron Aviation,Substantial,71.70731707317073
+Textron Aviation,Minor,10.731707317073171
+Dassault Aviation,Destroyed,20.0
+Dassault Aviation,Substantial,60.0
+Dassault Aviation,Minor,20.0
+Israel Aircraft Industries,Destroyed,29.166666666666668
+Israel Aircraft Industries,Substantial,54.166666666666664
+Israel Aircraft Industries,Minor,16.666666666666664
